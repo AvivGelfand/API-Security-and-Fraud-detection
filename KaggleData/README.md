@@ -21,8 +21,8 @@ There are two files provided to correspond to the two CSV files
 Each item has an _id field that can be used to join against the CSV data sets. Then we have the API behavior graph represented as a list of edges.
 
 ### Inspiration
-To model the classification label with a skewed distribution of normal and abnormal cases and with very few labeled samples available. Use supervised_dataset.csv
-To verify where the predicted class differs from the class determined by a second algorithm. Use remaining_behavior_ext.csv
+* To model the classification label with a skewed distribution of normal and abnormal cases and with very few labeled samples available. Use supervised_dataset.csv.
+* To verify where the predicted class differs from the class determined by a second algorithm. Use remaining_behavior_ext.csv.
 
 ## Some more info from a Kaggle discussion
 Question:
